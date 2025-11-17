@@ -5,6 +5,9 @@
 
 A multi-agent chatbot system for Concordia University that provides information about admissions, AI topics, and general university information through a clean, modern UI designed with Concordia's branding.
 
+## Watch the Video Demo
+[![Watch the demo](https://img.youtube.com/vi/W22-W_8rAAk/0.jpg)](https://www.youtube.com/watch?v=W22-W_8rAAk&t=20s)
+
 ## 📌 Project Overview
 
 This project implements a ChatGPT-like interface for Concordia University that connects to a multi-agent backend system. The system utilizes LLMs through Ollama to provide specialized responses based on the query type, with agents for admissions information, AI expertise, and general knowledge.
